@@ -4,7 +4,7 @@ Questa cartella è una sezione pronta da incollare nel vault Obsidian "BVB compa
 
 ## Come inserirla nel company brain
 
-1. Copiare l'intera cartella `BVB Marketing OS` nel vault, ad esempio in `20-Aree/Marketing/BVB Marketing OS` oppure alla radice.
+1. Clonare il repo `MADEONLINE/bvb-company-brain` dentro il vault (`git clone https://github.com/MADEONLINE/bvb-company-brain`): contiene questa cartella e riceve gli aggiornamenti con `git pull`. In alternativa copiare la cartella a mano.
 2. I link `[[...]]` sono per nome di nota e si risolvono ovunque la cartella venga messa; i nomi sono prefissati (Canale…, Ruolo…, Specialist…, Skill…, SOP…, MOC…) per non collidere con note già esistenti nel vault.
 3. Se il vault ha già `_templates`, cancellare la copia qui dentro: sono gli stessi 13 template dello schema canonico.
 4. Aprire [[MOC Marketing OS BVB]]: è la porta d'ingresso.

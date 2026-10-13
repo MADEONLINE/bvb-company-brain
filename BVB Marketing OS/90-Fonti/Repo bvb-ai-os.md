@@ -30,7 +30,7 @@ Repository GitHub del sistema operativo AI di Brave Vet Business: backend dispat
 - [[La pubblicazione resta umana]], [[Ogni contenuto nasce con obiettivo e KPI]]
 
 ## Domande aperte
-- Il repo del company brain è separato: la cartella va copiata a mano o con uno script di sincronizzazione?
+- La sezione viene spinta nel repo bvb-company-brain con `npm run push-brain` (script `scripts/push_second_brain.sh`).
 
 ## Originale
 Repository remoto; non copiato nel vault.
