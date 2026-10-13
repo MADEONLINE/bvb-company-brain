@@ -1,0 +1,13 @@
+{
+  "nome": "BVB Marketing OS",
+  "tipo": "sezione di vault aziendale (da inserire nel BVB company brain)",
+  "lingua": "it",
+  "data": "2026-10-13",
+  "profilo": "team",
+  "owner": "Massimo Serreri",
+  "aree": ["Marketing OS BVB", "Canale Sito Web", "Canale Instagram e Facebook", "Canale LinkedIn", "Canale Email Brevo", "Canale Ads Meta e Google"],
+  "progetti": ["Ritestare e personalizzare i reel BVB", "Attivare il plugin BVB Marketing OS", "Speciality tagging dei contatti Brevo"],
+  "review": { "settimanale": "venerdì (report performance)", "mensile": "13 del mese" },
+  "modalita_ai": "proponi-e-approva",
+  "assunzioni": ["soglie KPI da skill, non da storico", "baseline reel non letta", "nessun dato personale"]
+}
